@@ -9,7 +9,7 @@ const state = {
     {
       offset: 1,
       factor: 1.75,
-      header: "District 4",
+      header: "1",
       image: "/photo-1515036551567-bf1198cccc35.jpeg",
       aspect: 1.51,
       text: "Two thousand pharmacologists and bio-chemists were subsidized. Six years later it was being produced commercially."
@@ -17,40 +17,43 @@ const state = {
     {
       offset: 2,
       factor: 2.0,
-      header: "Diamond Road",
+      header: "2",
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
-      text:
-        "The man who comes back through the Door in the Wall will never be quite the same as the man who went out. He will be wiser but less sure, happier but less self-satisfied, humbler in acknowledging his ignorance yet better equipped to understand the relationship of words to things, of systematic reasoning to the unfathomable mystery which it tries, forever vainly, to comprehend."
+      text: "When complicated computer programs were being written during the 1960s through the 1980s, computer engineers used a two-digit code for the year. The '19' was left out. Instead of a date reading 1970, it read 70. Engineers shortened the date because data storage in computers was costly and took up a lot of space."
     },
     {
       offset: 3,
       factor: 2.25,
-      header: "Catalina",
+      header: "3",
       image: "/ph1.jpg",
       aspect: 1.5037,
-      text:
-        "The substance can take you to heaven but it can also take you to hell. Or else to both, together or alternately. Or else (if you're lucky, or if you've made yourself ready) beyond either of them. And then beyond the beyond, back to where you started from — back to here, back to New Rotham sted, back to business as usual. Only now, of course, business as usual is completely different."
+      text: "As the year 2000 approached, computer programmers realized that computers might not interpret 00 as 2000, but as 1900. Activities that were programmed on a daily or yearly basis would be damaged or flawed. As December 31, 1999, turned into January 1, 2000, computers might interpret December 31, 1999, turning into January 1, 1900."
     },
     {
       offset: 4,
       factor: 2.0,
-      header: "Building 21",
+      header: "4",
       image: "/ph3.jpg",
       aspect: 0.665,
-      text:
-        "We’ve found that the people whose EEG doesn’t show any alpha-wave activity when they’re relaxed aren’t likely to respond significantly to the substance. That means that, for about fifteen percent of the population, we have to find other approaches to liberation."
+      text: "Banks, which calculate interest rates on a daily basis, faced real problems. Interest rates are the amount of money a lender, such as a bank, charges a customer, such as an individual or business, for a loan. Instead of the rate of interest for one day, the computer would calculate a rate of interest for minus almost 100 years!"
     },
     {
       offset: 5,
       factor: 1.75,
-      header: "Sector 8",
+      header: "5",
       image: "/photo-1533577116850-9cc66cad8a9b.jpeg",
       aspect: 1.55,
-      text:
-        "By cultivating the state of mind that makes it possible for the dazzling ecstatic insights to become permanent and habitual illuminations. By getting to know oneself to the point where one won’t be compelled by one’s unconscious to do all the ugly, absurd, self-stultifying things that one so often finds oneself doing."
+      text: "Centers of technology, such as power plants, were also threatened by the Y2K bug. Power plants depend on routine computer maintenance for safety checks, such as water pressure or radiation levels. Not having the correct date would throw off these calculations and possibly put nearby residents at risk."
     },
-    { offset: 7, factor: 1.05, header: "The Factory", image: "/photo-1548191265-cc70d3d45ba1.jpeg", aspect: 1.77, text: "Education and enlightenment." }
+    {
+      offset: 7,
+      factor: 1.05,
+      header: "The Factory",
+      image: "/photo-1548191265-cc70d3d45ba1.jpeg",
+      aspect: 1.77,
+      text: "In the end, there were very few problems. A nuclear energy facility in Ishikawa, Japan, had some of its radiation equipment fail, but backup facilities ensured there was no threat to the public. The U.S. detected missile launches in Russia and attributed that to the Y2K bug. But the missile launches were planned ahead of time as part of Russias conflict in its republic of Chechnya. There was no computer malfunction."
+    }
   ],
   stripes: [
     { offset: 0, color: "#000", height: 13 },
