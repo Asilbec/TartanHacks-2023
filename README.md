@@ -28,7 +28,7 @@ You can access the live version here: https://retro2future.netlify.app/ and http
  - lerp
  - react
  - figma
- - krita
+ - blender
 
 ## 
 **CONTRIBUTORS**
