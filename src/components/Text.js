@@ -5,7 +5,7 @@ import { useAsset } from "use-asset"
 import lerp from "lerp"
 import state from "../store"
 
-function Text({ children, size = 1, left, right, top, bottom, color = "white", opacity = 1, height = 0.01, layers = 0, font = "/MOONGET_Heavy.json", ...props }) {
+function Text({ children, size = 1, left, right, top, bottom, color = "white", opacity = 1, height = 0.01, layers = 0, font = "/cageroll.json", ...props }) {
   const data = useLoader(FontLoader, font)
   const geom = useAsset(() => new Promise((res) => res(new TextBufferGeometry(children, { font: data, size: 1, height, curveSegments: 32 }))), [children])
   const onUpdate = useCallback(
