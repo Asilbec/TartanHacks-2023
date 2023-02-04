@@ -57,8 +57,8 @@ function Content() {
     <>
       <Block factor={1} offset={0}>
         <Block factor={1}>
-          <Text left size={1.6} position={[w/50, 3, -1]} color="white">
-            {"RETRO\n2 FUTURE"}
+          <Text center size={1.6} position={[w/7, 2, -1]} color="white">
+            {"RETRO2FUTURE"}
           </Text>
         </Block>
         <Block factor={1.0}>
