@@ -26,7 +26,7 @@ const state = {
       offset: 3,
       factor: 2.25,
       header: "POSTIIVE DISRUPTION",
-      image: "/ph1.jpg",
+      image: "model.png",
       aspect: 1.5037,
       text: "oftentimes disruption is considered in a negative context: tantrum, violence, war. with retro2future, we want to emphasize the benefit of disruption: 3D distortion to improve our understanding of schematics and scans with an aesthetic inspired by optimism in the future."
     },
