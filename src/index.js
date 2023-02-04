@@ -78,7 +78,7 @@ function Content() {
         </Block>
         <Block factor={1.0}>
           <Html className="bottom-left" style={{ color: "white" }} position={[-canvasWidth / 2, -canvasHeight / 2, 0]}>
-            It was the year 1999,Y2K bug has arrived.
+            transformation. distortion. disruption.
           </Html>
         </Block>
       </Block>
