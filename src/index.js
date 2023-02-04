@@ -57,7 +57,22 @@ function Content() {
     <>
       <Block factor={1} offset={0}>
         <Block factor={1}>
-          <Text center size={1.6} position={[w/7, 2, -1]} color="white">
+          <Text center size={1.6} position={[w/7, 2.5, -1]} color="#BDBDBD">
+            {"RETRO2FUTURE"}
+          </Text>
+        </Block>
+        <Block factor={1}>
+          <Text center size={1.6} position={[w/7, 0.5, -1]} color="white">
+            {"RETRO2FUTURE"}
+          </Text>
+        </Block>
+        <Block factor={1}>
+          <Text center size={1.6} position={[w/7, 4.5, -1]} color="#888888">
+            {"RETRO2FUTURE"}
+          </Text>
+        </Block>
+        <Block factor={1}>
+          <Text center size={1.6} position={[w/7, 6.5, -1]} color="#535353">
             {"RETRO2FUTURE"}
           </Text>
         </Block>
