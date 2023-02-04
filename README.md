@@ -35,6 +35,4 @@ You can access the live version here: [RETRO2FUTURE](https://retro2future.netlif
 ## 
 **CONTRIBUTORS**
 
-Kaitlyn Ng
-Bek Omonkulov
-Yujun Wu 
+Kaitlyn Ng, Bek Omonkulov, Yujun Wu 
