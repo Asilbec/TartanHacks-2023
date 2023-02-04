@@ -23,7 +23,7 @@ function Paragraph({ image, index, offset, factor, header, aspect, text }) {
   const alignRight = (canvasWidth - w * size - margin) / 2
   const pixelWidth = w * state.zoom * size
   const left = !(index % 2)
-  const color = index % 2 ? "#D40749" : "#2FE8C3"
+  const color = index % 2 ? "#D40749" : "#4ba4d6"
   return (
     <Block factor={factor} offset={offset}>
       <group position={[left ? -alignRight : alignRight, 0, 0]}>
