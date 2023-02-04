@@ -27,6 +27,8 @@ You can access the live version here: https://retro2future.netlify.app/ and http
  - three.js/fiber
  - lerp
  - react
+ - figma
+ - krita
 
 ## 
 **CONTRIBUTORS**
