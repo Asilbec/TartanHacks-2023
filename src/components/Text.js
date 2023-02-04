@@ -4,6 +4,7 @@ import { useLoader, useFrame } from "@react-three/fiber"
 import { useAsset } from "use-asset"
 import lerp from "lerp"
 import state from "../store"
+import { Html } from "@react-three/drei"
 
 function Text({ children, size = 1, left, right, top, bottom, color = "white", opacity = 1, height = 0.01, layers = 0, font = "/cageroll.json", ...props }) {
   const data = useLoader(FontLoader, font)
@@ -26,8 +27,12 @@ function Text({ children, size = 1, left, right, top, bottom, color = "white", o
     last = state.top.current
   })
 
+  function onClick(e) {
+    console.log("clicked")
+  }
+
   return (
-    <group {...props} scale={[size, size, 0.1]}>
+    <group onClick={onClick} {...props} scale={[size, size, 0.1]}>
       <mesh geometry={geom} onUpdate={onUpdate} frustumCulled={false}>
         <customMaterial ref={ref} color={color} transparent opacity={opacity} />
       </mesh>

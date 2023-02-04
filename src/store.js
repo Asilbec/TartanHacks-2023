@@ -2,8 +2,8 @@ import { createRef } from "react"
 import { Vector3 } from "three"
 
 const state = {
-  sections: 9,
-  pages: 8,
+  sections: 5,
+  pages: 5,
   zoom: 75,
   paragraphs: [
     {
@@ -29,7 +29,7 @@ const state = {
       image: "model.png",
       aspect: 1.5037,
       text: "oftentimes disruption is considered in a negative context: tantrum, violence, war. with retro2future, we want to emphasize the benefit of disruption: 3D distortion to improve our understanding of schematics and scans with an aesthetic inspired by optimism in the future."
-    },
+    }
   ],
   stripes: [
     { offset: 0, color: "#000", height: 13 },
@@ -40,7 +40,7 @@ const state = {
     { x: 2, offset: 1.1, pos: new Vector3(), scale: 1.8, factor: 2.1 },
     { x: -5, offset: 2, pos: new Vector3(), scale: 1.8, factor: 2.5 },
     { x: 0, offset: 3.2, pos: new Vector3(), scale: 1.8, factor: 1.75 },
-    { x: 0, offset: 8, pos: new Vector3(), scale: 2.5, factor: 6 }
+    { x: 0, offset: 4, pos: new Vector3(), scale: 2.5, factor: 4 }
   ],
   top: createRef()
 }
