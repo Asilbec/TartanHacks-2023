@@ -57,8 +57,8 @@ function Content() {
     <>
       <Block factor={1} offset={0}>
         <Block factor={1.2}>
-          <Text left size={w * 0.15} position={[-w / 3.2, 0.5, -1]} color="white">
-            Disruption
+          <Text center size={1.5} position={[w/4.2, 0, -1]} color="white">
+            RETRO2FUTURE
           </Text>
         </Block>
         <Block factor={1.0}>

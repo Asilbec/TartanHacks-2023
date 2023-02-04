@@ -60,7 +60,11 @@ const state = {
     { offset: 6.3, color: "#000", height: 20 }
   ],
   diamonds: [
+<<<<<<< HEAD
     { x: 0, offset: 0.15, pos: new Vector3(), scale: 4, factor: 4 },
+=======
+    { x: 0, offset: 0.15, pos: new Vector3(), scale: 0, factor: 4 },
+>>>>>>> dd41249ce538381b1d0d1bc713aeeffd12198029
     { x: 2, offset: 1.1, pos: new Vector3(), scale: 1.8, factor: 2.1 },
     { x: -5, offset: 2, pos: new Vector3(), scale: 1.8, factor: 2.5 },
     { x: 0, offset: 3.2, pos: new Vector3(), scale: 1.8, factor: 1.75 },
