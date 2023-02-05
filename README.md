@@ -1,7 +1,9 @@
 # RETRO2FUTURE
 ## OVERVIEW
 
-**Won Most Disruptive: Technology**
+**Won Most Disruptive: Technology at Tartan Hacks 2023**
+
+See Tartan Hacks 2023 results here: https://docs.google.com/presentation/d/16Z45hy8mWZ_eJ6BjpyAm6IgKqG4ESRJuW5oapY2wL1k/edit?usp=sharing
 
 This website was created to fit the theme *'Disruption'* for the 2023 TartanHacks Hackathon. While providing a comprehensive lesson on the positive impacts of disruptive movements, the site allows users to map .vti files in 3D and view the model in different layers.
 
