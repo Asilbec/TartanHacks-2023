@@ -1,11 +1,17 @@
 # RETRO2FUTURE
 ## OVERVIEW
 
+**Won Most Disruptive: Technology**
+
 This website was created to fit the theme *'Disruption'* for the 2023 TartanHacks Hackathon. While providing a comprehensive lesson on the positive impacts of disruptive movements, the site allows users to map .vti files in 3D and view the model in different layers.
 
 Visit **RETRO2FUTURE** here: https://retro2future.netlify.app/
 
-Model here: https://retro2futureviewer.netlify.app/
+Visit the modeling software here: https://retro2futureviewer.netlify.app/
+
+Access our website mock-up here: https://www.figma.com/file/9Pu4hfydNmA5ln8SKHd31i/Tartan-Hack-Website-UI?t=n3ng5Oeq29NKVdaX-6
+
+View our presentation slides here: https://www.canva.com/design/DAFZpJjiGSA/gYD3NcRu3sTJZtw5A5Vf1Q/view?utm_content=DAFZpJjiGSA&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
 ## FEATURES
 
@@ -15,7 +21,7 @@ Model here: https://retro2futureviewer.netlify.app/
  - Inspect inner layers of the model by disabling certain colors
  - Overlay multiple .vti files on top of another for model comparison
 
-## INSTALLATION
+## USAGE
 
 **Live version**:
 You can access the live version here: https://retro2future.netlify.app/ and https://retro2futureviewer.netlify.app/
